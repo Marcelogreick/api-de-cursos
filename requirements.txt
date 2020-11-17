@@ -1,0 +1,8 @@
+Django==2.2.9
+django-filter==2.4.0
+djangorestframework==3.12.1
+importlib-metadata==2.0.0
+Markdown==3.3.3
+pytz==2020.4
+sqlparse==0.4.1
+zipp==3.4.0
